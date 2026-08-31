@@ -1,0 +1,6 @@
+{
+  "name": "GramBiz AI",
+  "description": "AI-driven hyper-local business advisory and financial structuring platform for rural and semi-urban micro-entrepreneurs in India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
